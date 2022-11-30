@@ -6,7 +6,7 @@ Aplicação construída no terceiro módulo da nova trilha de React (ignite) Roc
 ![03](https://user-images.githubusercontent.com/39626457/204912659-390e1aa7-201a-42e4-a5be-4b296a7bdd59.PNG)
 
 
-# Tecnologias usadas no desenvolvimento 
+# Tecologias/Ferramentas ultilizadas
 * Vite
 * React
 * Typescript
